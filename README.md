@@ -1,5 +1,9 @@
 # Educational Heap Exploitation
+## About This Fork
+I am using this fork to add in my own output for some of the binaries that I run just for future reference since it helps me to fully understand what is happening. 
+Full credits go to shellphish for making this repo.
 
+## Continuing!
 This repo is for learning various heap exploitation techniques.
 We use Ubuntu's Libc releases as the gold-standard. Each technique is verified to work on corresponding Ubuntu releases.
 You can run `apt source libc6` to download the source code of the Libc your are using on Debian-based operating system. You can also click :arrow_forward: to debug the technique in your browser using gdb.
